@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes-for-atomic-habbits/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/notes-for-atomic-habbits/"}
 ---
 
 
