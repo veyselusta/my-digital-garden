@@ -5,5 +5,5 @@
 
 This is my home
 
-(Check my notes for atomic habbits)[obsidian://open?vault=Obsidian%20Vault&file=notes%20for%20atomic%20habbits]
+(Check my notes for atomic habbits)[notes for atomic habbits]
 
