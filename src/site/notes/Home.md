@@ -5,5 +5,5 @@
 
 This is my home
 
-(Check my notes for atomic habbits)[notes for atomic habbits]
+(Check my notes for atomic habbits)[[notes for atomic habbits\|notes for atomic habbits]]
 
