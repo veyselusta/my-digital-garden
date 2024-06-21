@@ -6,6 +6,6 @@
 Veysel Usta 
 
 
-(Music)[Music]
+(Music)[[Music\|Music]]
 
 
