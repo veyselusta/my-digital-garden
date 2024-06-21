@@ -3,7 +3,9 @@
 ---
 
 
-This is my home
+Veysel Usta 
 
-(Check my notes for atomic habbits)[[notes for atomic habbits\|notes for atomic habbits]]
+
+(Music)[Music]
+
 
